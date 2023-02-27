@@ -1,9 +1,11 @@
+#Original code is made by Adrian Rosebrock 
+#The source can be found at https://pyimagesearch.com/2019/07/15/video-classification-with-keras-and-deep-learning/
 
 
-#use_mobile_net.py example
 
-python train.py --dataset path_todataset --model path where to save model
-	--label-bin wheretosavelabelbin --epochs numer of epochs
+#train_mobile_net.py example
+
+python train.py --dataset path_todataset --model path_where_to_save_model --label-bin wheretosavelabelbin --epochs numer of epochs to train
 
 
 
