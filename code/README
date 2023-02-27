@@ -1,0 +1,14 @@
+
+
+#use_mobile_net.py example
+
+python train.py --dataset path_todataset --model path where to save model
+	--label-bin wheretosavelabelbin --epochs numer of epochs
+
+
+
+
+
+#use_mobile_net.py example
+
+python use_mobile_net.py --model modelname here --label-bin labelbin here --size 8 size of the queue for rolling averaging
